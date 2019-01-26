@@ -1,11 +1,11 @@
 # Syllabus
 
-This class provides a practical introduction to deep learning, including theoretical motivations and how to implement it in practice. As part of the course we will cover multilayer perceptrons, backpropagation, automatic differentiation, and stochastic gradient descent. Moreover, we introduce convolutional networks for image processing, starting from the simple LeNet to more recent architectures such as ResNet for highly accurate models. Secondly, we discuss sequence models and recurrent networks, such as LSTMs, GRU, and the attention mechanism. Throughout the course we emphasize efficient implementation, optimization and scalability, e.g. to multiple GPUs and to multiple machines. The goal of the course is to provide both a good understanding and good ability to build modern nonparametric estimators. The course loosely follows [Dive into Deep Learning](http://d2i.ai) in terms of notebooks, slides and assignments.
+This class provides a practical introduction to deep learning, including theoretical motivations and how to implement it in practice. As part of the course we will cover multilayer perceptrons, backpropagation, automatic differentiation, and stochastic gradient descent. Moreover, we introduce convolutional networks for image processing, starting from the simple LeNet to more recent architectures such as ResNet for highly accurate models. Secondly, we discuss sequence models and recurrent networks, such as LSTMs, GRU, and the attention mechanism. Throughout the course we emphasize efficient implementation, optimization and scalability, e.g. to multiple GPUs and to multiple machines. The goal of the course is to provide both a good understanding and good ability to build modern nonparametric estimators. The course loosely follows [Dive into Deep Learning](http://d2l.ai) in terms of notebooks, slides and assignments.
 
 | Date | Topics |
 |------|--------|
 | 1/22 | [Logistics, Software, Linear Algebra](units/introduction.html) |
-| 1/24 | Probability and Statistics (Bayes Rule, Sampling Naive Bayes, Sampling) |
+| 1/24 | [Probability and Statistics (Bayes Rule, Sampling Naive Bayes, Sampling)](units/probability.html) |
 | 1/29 | Arrays, Automatic differentiation, Chain Rule |
 | 1/31 | Linear and Logistic regression, Learning rate, Batch size |
 | 2/5  | Loss Functions, Likelihood |
